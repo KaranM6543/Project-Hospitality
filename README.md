@@ -9,8 +9,9 @@ In this project, I have developed an interactive dashboard to analyze key metric
   
   •	Occupancy %: The percentage of available rooms that are booked, reflecting the hotel’s ability to attract guests.
   
-  •	RevPAR (Revenue per Available Room): A crucial metric that combines both occupancy and average daily rate (ADR) to measure the hotel's ability to generate revenue from its available 
-    rooms.
+  •	RevPAR (Revenue per Available Room): A critical metric that measures the hotel’s ability to generate revenue from its available rooms. It is calculated using the formula:
+    RevPAR = Total Revenue / Total Rooms Available to Sell.
+    This metric combines both occupancy and pricing, providing a comprehensive view of revenue performance.
     
   •	ADR (Average Daily Rate): The average rate charged per occupied room, helping to assess the pricing strategy and revenue potential.
   
