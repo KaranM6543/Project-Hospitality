@@ -1,4 +1,4 @@
-                                                                         **Project Description**
+                                                       **Project Description**
 
                                                                          
 In this project, I have developed an interactive dashboard to analyze key metrics within the hotel industry. The dashboard provides insights into essential performance indicators, enabling more informed decision-making and optimizing pricing and revenue strategies.
@@ -40,7 +40,7 @@ The goal of this project was to create a comprehensive, real-time tool that prov
                                                  
                                                  
                                                  
-                                                 ***Analysis and Recommendation for Pricing Strategy to Maximize Profit:***
+                                 ***Analysis and Recommendation for Pricing Strategy to Maximize Profit:***
                                                  
 
 Based on the analysis of key metrics and performance data, I recommend the hotel adopt a dynamic pricing strategy with differentiated rates for weekdays and weekends, along with seasonal adjustments to maximize profitability. Below are the key insights and recommendations:
